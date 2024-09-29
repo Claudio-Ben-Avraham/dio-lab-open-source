@@ -5,6 +5,8 @@ Estou iniciando na area de sistemas de informação e com muita vontade de apren
 
 ## 🌱 Atualmente aprendendo
 
-- [Java, Javascript, Python]
+- Java
+- Javascript
+- Python
 
 
